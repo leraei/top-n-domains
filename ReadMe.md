@@ -1,4 +1,5 @@
-#Top-n   email   domains
+#Top-n email domains
+
 ##Description
 Write   a   program   in   a   language   of   your   choice   that   given   standard   input   with   one   email   address   per   line. eg.
 ```
@@ -13,6 +14,7 @@ yahoo.com   1315
 and   up   to   8   more   lines.
 ```
 ##How to start
+
 ### Via console
 You can simply run the project via console
 ```
@@ -34,5 +36,6 @@ gradle clean build
 ```
 
 ##F.A.Q
+
 #####Why gradle?
 Gradle is used for the comfortable use of JUnit5. It adds not other dependencies to the project
