@@ -32,10 +32,10 @@ There are four unittests that are covering the code:
   
 You can simply run the tests via gradle
 ```
-gradle clean build
+./gradlew clean build
 ```
 
 ## F.A.Q
 
-#####Why gradle?
+### Why gradle?
 Gradle is used for the comfortable use of JUnit5. It adds not other dependencies to the project
